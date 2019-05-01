@@ -1,0 +1,12 @@
+/*
+Senchagrön (normal)	: #7eb105
+Senchagrön (mörk)	: #5b7f03
+Senchagrön (ljus)	: #a2e306
+*/
+.loader { background: url(images/loading.gif) left center no-repeat; padding-left: 48px; }
+.mb-register-section { }
+.mb-register-header { font-size: 120% }
+.mb-register-article { font-size: 130%; color: #069; font-weight: bold; }
+.mb-register-figure { font-size: 75%; }
+
+.x-item-selected .mb-register-article { color: #fff; }
